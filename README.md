@@ -2,8 +2,16 @@
 
 Tracking holistic from video using Google's mediapipe python api.
 
-## usage
+<br>
+
+## Usage
 
 ```
 $ python app.py -i <input video path> -o <output video path> -f <path for saving frames>
 ```
+
+<br>
+
+## Example
+
+<img src="result.gif">
